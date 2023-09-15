@@ -1,5 +1,4 @@
 
-<div display="flex">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="150"/>
   <p>### I'm Lilia 👋 Front-end разработчик</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -8,7 +7,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 
 ## 🛠 Технологии Фронтенд
  ООП, BEM, Адаптивная верстка, Webpack, Git, Figma, React, Typescript
@@ -20,7 +18,7 @@ Node.js, express, Postman, MoongoDB, Cors
 
 ---
 
-### 🌱 Мои выполненные проекты
+## 🌱 Мои выполненные проекты
 
 *   [Проект: "Movies"](https://github.com/LiliaKhazieva/movies-explorer-api) - Сервис для поиска фильмов(Backend).
 *   [Проект: "Movies"](https://github.com/LiliaKhazieva/movies-explorer-frontend) - Сервис для поиска фильмов(Frontend).
@@ -30,11 +28,11 @@ Node.js, express, Postman, MoongoDB, Cors
 
 ---
   
-### Codewars  
+## Codewars  
  [![codewars](https://www.codewars.com/users/LiliaKhazieva/badges/small)](https://www.[codewars.com/users/LiliaKhazieva])
 
 ---
 
-###   
+##  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiliaKhazieva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
