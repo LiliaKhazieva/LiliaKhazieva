@@ -1,12 +1,10 @@
 
-<div align="center">
+<div>
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="150"/>
-</div>
-
-### I'm Lilia 👋
+  ### I'm Lilia 👋
 Начинающий Front-end разработчик.
 На данный момент обучаюсь в Я.Практикум. Обладаю знаниями в области front-end разработки на Javascript.
-
+</div>
 
 ## 🛠 Технологии Фронтенд
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
