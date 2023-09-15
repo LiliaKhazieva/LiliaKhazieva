@@ -25,5 +25,5 @@ Node.js, express, Postman, MoongoDB, Cors
 *   [Проект: "Научится учиться"](https://github.com/LiliaKhazieva/how-to-learn) - Лендинг сайта про эффективное обучение.
 *   [Проект: "Путешествие по России"](https://github.com/LiliaKhazieva/russian-travel) - Сайт о путешествиях по России.
  
- [![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.[codewars.com/users/LiliaKhazieva])
+ [![codewars](https://www.codewars.com/users/LiliaKhazieva/badges/large)](https://www.[codewars.com/users/LiliaKhazieva])
 
