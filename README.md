@@ -34,11 +34,6 @@ Node.js, express, Postman, MoongoDB, Cors
 *   [Проект: "Путешествие по России"](https://github.com/LiliaKhazieva/russian-travel) - Сайт о путешествиях по России.
 
 ---
-  
-### Codewars  
- [![codewars](https://www.codewars.com/users/LiliaKhazieva/badges/small)](https://www.[codewars.com/users/LiliaKhazieva])
-
----
 
 ###  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiliaKhazieva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
