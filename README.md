@@ -26,7 +26,8 @@ I'm Lilia 👋 Front-end разработчик
 ---
 
 ### 🌱 Мои выполненные проекты
-
+*   [Проект: "ZooMark"](https://liliakhazieva.github.io/zoo-mark) - ZooMark сайт по подбору питомца.
+*   [Проект: "VeneraStore"](https://venera-store.vercel.app/) - Интернет магазин украшений Venera.
 *   [Проект: "Movies"](https://github.com/LiliaKhazieva/movies-explorer-api) - Сервис для поиска фильмов(Backend).
 *   [Проект: "Movies"](https://github.com/LiliaKhazieva/movies-explorer-frontend) - Сервис для поиска фильмов(Frontend).
 *   [Проект: "Место"](https://github.com/LiliaKhazieva/mesto) - Сервис для публикации фотографий.
