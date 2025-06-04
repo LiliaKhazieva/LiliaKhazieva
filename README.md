@@ -6,13 +6,13 @@ I'm Lilia 👋 Front-end разработчик
 
 ### 🛠 Технологии Фронтенд
 
-  CSS, SCSS, HTML, Адаптивная верстка, Webpack, Vite, Git, Figma, React, Next.js, Typescript, Yarn, Npm, Redux-toolkit
+  CSS, SCSS, HTML, Адаптивная верстка, Bootstrap, Webpack, Vite, Git, Figma, React, Next.js, Typescript, Yarn, Npm, Redux-toolkit, Zustand, Prettier, UI библиотеки, WebSocket
 
 ---
 
 ### 🛠 Технологии Backend
 
-  Node.js, Express, Postman, Insomnia, MoongoDB, Moongoose, Prisma, Postrgess, Nest.js
+  Node.js, Nest.js, Express, Postman, Insomnia, MoongoDB, Moongoose, Postrgess, Prisma
  </div> 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -26,13 +26,14 @@ I'm Lilia 👋 Front-end разработчик
 ---
 
 ### 🌱 Мои выполненные проекты
-*   [Проект: "ZooMark"](https://liliakhazieva.github.io/zoo-mark) - ZooMark сайт по подбору питомца.
-*   [Проект: "VeneraStore"](https://venera-store.vercel.app/) - Интернет магазин украшений Venera.
-*   [Проект: "Movies"](https://github.com/LiliaKhazieva/movies-explorer-api) - Сервис для поиска фильмов(Backend).
-*   [Проект: "Movies"](https://github.com/LiliaKhazieva/movies-explorer-frontend) - Сервис для поиска фильмов(Frontend).
-*   [Проект: "Место"](https://github.com/LiliaKhazieva/mesto) - Сервис для публикации фотографий.
-*   [Проект: "Научится учиться"](https://github.com/LiliaKhazieva/how-to-learn) - Лендинг сайта про эффективное обучение.
-*   [Проект: "Путешествие по России"](https://github.com/LiliaKhazieva/russian-travel) - Сайт о путешествиях по России.
+*   ["VeneraStore"](https://venera-store.vercel.app/) - Интернет магазин украшений Venera.
+*   ["Floristics"](https://github.com/LiliaKhazieva/floristics-landing) - Сайт визитка магазина цветов.
+*   ["ZooMark"](https://liliakhazieva.github.io/zoo-mark) - ZooMark сайт по подбору питомца.
+*   ["Movies"](https://github.com/LiliaKhazieva/movies-explorer-api) - Сервис для поиска фильмов(Backend).
+*   ["Movies"](https://github.com/LiliaKhazieva/movies-explorer-frontend) - Сервис для поиска фильмов(Frontend).
+*   ["Место"](https://github.com/LiliaKhazieva/mesto) - Сервис для публикации фотографий.
+*   ["Научится учиться"](https://github.com/LiliaKhazieva/how-to-learn) - Лендинг сайта про эффективное обучение.
+*   ["Путешествие по России"](https://github.com/LiliaKhazieva/russian-travel) - Сайт о путешествиях по России.
 
 ---
 
