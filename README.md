@@ -26,7 +26,8 @@ I'm Lilia 👋 Front-end разработчик
 ---
 
 ### 🌱 Мои выполненные проекты
-*   ["VeneraStore"](https://venera-store.vercel.app/) - Интернет магазин украшений Venera.
+*   ["VeneraStore"](https://venera-store.vercel.app) - Интернет магазин украшений Venera.
+*   ["NextBankApp"](https://github.com/LiliaKhazieva/next-bank) - Банковское приложение.
 *   ["Floristics"](https://github.com/LiliaKhazieva/floristics-landing) - Сайт визитка магазина цветов.
 *   ["ZooMark"](https://liliakhazieva.github.io/zoo-mark) - ZooMark сайт по подбору питомца.
 *   ["Movies"](https://github.com/LiliaKhazieva/movies-explorer-api) - Сервис для поиска фильмов(Backend).
