@@ -24,10 +24,12 @@ I'm Lilia 👋 Front-end разработчик
 ---
 
 ### 🌱 Мои выполненные проекты
-*   ["VeneraStore"](https://venera-store.vercel.app) - Интернет магазин украшений Venera.
+*   ["SkyTrack"](https://github.com/LiliaKhazieva/sky-track) - Приложение для трекинга авиарейсов.
+*   ["TaskHub"](https://github.com/LiliaKhazieva/task-hub) - Таск менеджер для задач и проектов.
+*   ["VeneraStore"](https://github.com/LiliaKhazieva/VeneraStore) - Интернет магазин украшений Venera.
 *   ["NextBankApp"](https://github.com/LiliaKhazieva/next-bank) - Банковское приложение.
 *   ["Floristics"](https://github.com/LiliaKhazieva/floristics-landing) - Сайт визитка магазина цветов.
-*   ["ZooMark"](https://liliakhazieva.github.io/zoo-mark) - ZooMark сайт по подбору питомца.
+*   ["ZooMark"](https://github.com/LiliaKhazieva/zoo-mark) - ZooMark сайт по подбору питомца.
 *   ["Movies"](https://github.com/LiliaKhazieva/movies-explorer-api) - Сервис для поиска фильмов(Backend).
 *   ["Movies"](https://github.com/LiliaKhazieva/movies-explorer-frontend) - Сервис для поиска фильмов(Frontend).
 *   ["Место"](https://github.com/LiliaKhazieva/mesto) - Сервис для публикации фотографий.
