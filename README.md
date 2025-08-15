@@ -4,7 +4,7 @@ I'm Lilia 👋 Front-end разработчик
 
 ### 🛠 Технологии Фронтенд
 
-  CSS, SCSS, HTML, Адаптивная верстка, Bootstrap, Webpack, Vite, Git, Figma, React, Next.js, Typescript, Yarn, Npm, Redux-toolkit, Zustand, Prettier, UI библиотеки, WebSocket
+  CSS, SCSS, HTML, Адаптивная верстка, Bootstrap, Webpack, Vite, Yarn, Npm, Git, Figma, React, Next.js, Typescript, Redux-toolkit, Zustand, MobX, Zod, Prettier, UI библиотеки Radix UI, Shadcn UI.
 
 ---
 
@@ -24,6 +24,7 @@ I'm Lilia 👋 Front-end разработчик
 ---
 
 ### 🌱 Мои выполненные проекты
+*   ["Tasks manager"](https://github.com/LiliaKhazieva/tasks-manager) - Трекер списка задач.
 *   ["SkyTrack"](https://github.com/LiliaKhazieva/sky-track) - Приложение для трекинга авиарейсов.
 *   ["TaskHub"](https://github.com/LiliaKhazieva/task-hub) - Таск менеджер для задач и проектов.
 *   ["VeneraStore"](https://github.com/LiliaKhazieva/VeneraStore) - Интернет магазин украшений Venera.
