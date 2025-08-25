@@ -24,6 +24,8 @@ I'm Lilia 👋 Front-end разработчик
 ---
 
 ### 🌱 Мои выполненные проекты
+*   ["Sanday cinema"](https://github.com/LiliaKhazieva/sanday-cinema) - Онлайн кинотеатр Next.js.
+*   ["Sanday cinema"](https://github.com/LiliaKhazieva/sanday-cinema-backend) - Онлайн кинотеатр на Nest.js.
 *   ["Tasks manager"](https://github.com/LiliaKhazieva/tasks-manager) - Трекер списка задач.
 *   ["SkyTrack"](https://github.com/LiliaKhazieva/sky-track) - Приложение для трекинга авиарейсов.
 *   ["TaskHub"](https://github.com/LiliaKhazieva/task-hub) - Таск менеджер для задач и проектов.
