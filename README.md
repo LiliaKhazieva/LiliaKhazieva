@@ -1,17 +1,26 @@
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76514&background=000000A9&width=435&lines=I'm+Lilia+%F0%9F%91%8B+Front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76514&width=435&lines=I'm+Lilia+%F0%9F%91%8B+Front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a>
 
 ### 🛠 Технологии Фронтенд
 
-  CSS, SCSS, HTML, Адаптивная верстка, Bootstrap, Webpack, Vite, Yarn, Npm, Git, Figma, React, Next.js, Typescript, Redux-toolkit, Zustand, MobX, Zod, Prettier, UI библиотеки Radix UI, Shadcn UI.
+  CSS, SCSS, HTML, JS, Адаптивная верстка, Bootstrap, Webpack, Vite, Yarn, Npm, Git, Figma, React, Next.js, Typescript, Redux-toolkit, Zustand, MobX, Zod, Prettier, React-hook-form, UI библиотеки Radix UI, Shadcn UI.
 
 ---
 
 ### 🛠 Технологии Backend
 
   Node.js, Nest.js, Express, Postman, Insomnia, MoongoDB, Moongoose, Postrgess, Prisma
+  
+---
+  
+### 🛠 CMS 
+
+  Supabase, Wordpress, Tilda, 1C Битрикс  
  </div> 
+ 
+ ---
+ 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -39,9 +48,4 @@
 *   ["Место"](https://github.com/LiliaKhazieva/mesto) - Сервис для публикации фотографий.
 *   ["Научится учиться"](https://github.com/LiliaKhazieva/how-to-learn) - Лендинг сайта про эффективное обучение.
 *   ["Путешествие по России"](https://github.com/LiliaKhazieva/russian-travel) - Сайт о путешествиях по России.
-
----
-
-###  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiliaKhazieva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
