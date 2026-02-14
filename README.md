@@ -1,6 +1,6 @@
 
 <div align="center">
-I'm Lilia 👋 Front-end разработчик
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76514&background=000000A9&width=435&lines=I'm+Lilia+%F0%9F%91%8B+Front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
 
 ### 🛠 Технологии Фронтенд
 
@@ -24,15 +24,16 @@ I'm Lilia 👋 Front-end разработчик
 ---
 
 ### 🌱 Мои выполненные проекты
-*   ["Sanday cinema"](https://github.com/LiliaKhazieva/sanday-cinema) - Онлайн кинотеатр Next.js.
-*   ["Sanday cinema"](https://github.com/LiliaKhazieva/sanday-cinema-backend) - Онлайн кинотеатр на Nest.js.
+
 *   ["Tasks manager"](https://github.com/LiliaKhazieva/tasks-manager) - Трекер списка задач.
-*   ["SkyTrack"](https://github.com/LiliaKhazieva/sky-track) - Приложение для трекинга авиарейсов.
-*   ["TaskHub"](https://github.com/LiliaKhazieva/task-hub) - Таск менеджер для задач и проектов.
+*   ["SkyTrack"](https://github.com/LiliaKhazieva/sky-track) - Приложение для трекинга авиарейсов [React].
+*   ["TaskHub"](https://github.com/LiliaKhazieva/task-hub) - Таск менеджер для задач и проектов [Бэк на Supabase, Фронт на Next].
 *   ["VeneraStore"](https://github.com/LiliaKhazieva/VeneraStore) - Интернет магазин украшений Venera.
-*   ["NextBankApp"](https://github.com/LiliaKhazieva/next-bank) - Банковское приложение.
 *   ["Floristics"](https://github.com/LiliaKhazieva/floristics-landing) - Сайт визитка магазина цветов.
 *   ["ZooMark"](https://github.com/LiliaKhazieva/zoo-mark) - ZooMark сайт по подбору питомца.
+*   ["Sanday cinema"](https://github.com/LiliaKhazieva/sanday-cinema) - Онлайн кинотеатр [Фронтенд] Next.js.
+*   ["Sanday cinema"](https://github.com/LiliaKhazieva/sanday-cinema-backend) - Онлайн кинотеатр [Бэкенд] на Nest.js.
+*   ["NextBankApp"](https://github.com/LiliaKhazieva/next-bank) - Банковское приложение.
 *   ["Movies"](https://github.com/LiliaKhazieva/movies-explorer-api) - Сервис для поиска фильмов(Backend).
 *   ["Movies"](https://github.com/LiliaKhazieva/movies-explorer-frontend) - Сервис для поиска фильмов(Frontend).
 *   ["Место"](https://github.com/LiliaKhazieva/mesto) - Сервис для публикации фотографий.
