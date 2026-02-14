@@ -1,6 +1,6 @@
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76514&background=000000A9&width=435&lines=I'm+Lilia+%F0%9F%91%8B+Front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76514&background=000000A9&width=435&lines=I'm+Lilia+%F0%9F%91%8B+Front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a>
 
 ### 🛠 Технологии Фронтенд
 
