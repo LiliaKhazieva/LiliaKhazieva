@@ -10,13 +10,13 @@
 
 ### 🛠 Технологии Backend
 
-  Node.js, Nest.js, Express, Postman, Insomnia, MoongoDB, Moongoose, Postrgess, Prisma
+  Node.js, Nest.js, Express, Postman, Insomnia, MoongoDB, Moongoose, Postrgess, Prisma, Supabase
   
 ---
   
 ### 🛠 CMS 
 
-  Supabase, Wordpress, Tilda, 1C Битрикс  
+ Wordpress, Tilda, 1C Битрикс  
  </div> 
  
  ---
