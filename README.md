@@ -34,11 +34,11 @@
 
 ### 🌱 Мои выполненные проекты
 
-*   ["Tasks manager"](https://github.com/LiliaKhazieva/tasks-manager) - Трекер списка задач.
+*   ["SimpleTodo"](https://github.com/LiliaKhazieva/todo-js) - Простой список задач на чистом js.
 *   ["SkyTrack"](https://github.com/LiliaKhazieva/sky-track) - Приложение для трекинга авиарейсов [React].
 *   ["TaskHub"](https://github.com/LiliaKhazieva/task-hub) - Таск менеджер для задач и проектов [Бэк на Supabase, Фронт на Next].
 *   ["VeneraStore"](https://github.com/LiliaKhazieva/VeneraStore) - Интернет магазин украшений Venera.
-*   ["SimpleTodo"](https://github.com/LiliaKhazieva/todo-js) - Простой список задач на чистом js.
+*   ["Tasks manager"](https://github.com/LiliaKhazieva/tasks-manager) - Трекер списка задач.
 *   ["Floristics"](https://github.com/LiliaKhazieva/floristics-landing) - Сайт визитка магазина цветов.
 *   ["ZooMark"](https://github.com/LiliaKhazieva/zoo-mark) - ZooMark сайт по подбору питомца.
 *   ["Sanday cinema"](https://github.com/LiliaKhazieva/sanday-cinema) - Онлайн кинотеатр [Фронтенд] Next.js.
